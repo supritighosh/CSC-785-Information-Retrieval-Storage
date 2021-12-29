@@ -13,4 +13,4 @@ A study of the architecture, requirements and capabilities of different database
 Learning Outcome:</br>
 Projects: 
 - [Hotel Management System](/Hotel%20Management%20System)</br>
--[Document Clustering](/Document%20Clustering)
+- [Document Clustering](/Document%20Clustering)
